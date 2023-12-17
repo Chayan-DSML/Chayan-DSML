@@ -1,11 +1,5 @@
 👋 Hi, I’m Chayan Agarwal from India, currently a beginner to the world of tech career. Pursuing my Masters in Computer Science in Machine Learning and Artificial Intelligence with one of the renouned online tech universities in India and Europe.
 
-👀 My journey to career with Data, started during 2016 where 
-
-🌱 I’m currently learning ...
-
-💞️ I’m looking to collaborate on ...
-
 📫 You can reach me out on LinkedIn using this page - https://www.linkedin.com/in/chayan-agarwal01/ I am quiet active on that platform. I will be happy to connect with you all.
 
 As an aspiring professional in Data Science, I'm passionate about technology's transformative potential.
